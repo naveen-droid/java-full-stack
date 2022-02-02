@@ -11,5 +11,5 @@ Developed a platform to query over wikipedia. API can help to get basic informat
 can be served in two formats as JSON as well as HTML format. Spring MVC was used for serving in the
 backend. Backend process involves calling wikipedia.org to fetch raw data, which is eventually parsed and
 cleaned to get the output. Tested the project for 300+ queries like “India”, “America”, “Einstein” etc.
-![](https://github.com/naveen-droid/java-full-stack/blob/main/t6.jpeg)
-![](https://github.com/naveen-droid/java-full-stack/blob/main/t2.jpeg)
+![](https://github.com/naveen-droid/java-full-stack/blob/main/w2.jpeg)
+![](https://github.com/naveen-droid/java-full-stack/blob/main/w1.jpeg)
